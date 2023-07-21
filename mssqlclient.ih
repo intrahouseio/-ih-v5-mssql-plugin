@@ -1,0 +1,6 @@
+{
+    "id":"mssqlclient",
+    "description":"Плагин SQL запросов к MS SQL Server",
+    "cross":true,
+	"version":"5.0.1"
+}
